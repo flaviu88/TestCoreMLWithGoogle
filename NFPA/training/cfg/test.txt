@@ -1,0 +1,2 @@
+data/obj/geico19.JPEG
+data/obj/geico4.JPEG
