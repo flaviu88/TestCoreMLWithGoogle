@@ -126,7 +126,6 @@ data/nfpa/pos-23.jpg
 data/nfpa/pos-230.jpg
 data/nfpa/pos-232.jpg
 data/nfpa/pos-233.jpg
-data/nfpa/pos-234.jpg
 data/nfpa/pos-235.jpg
 data/nfpa/pos-236.jpg
 data/nfpa/pos-237.jpg
